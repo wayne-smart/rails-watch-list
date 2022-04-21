@@ -150,7 +150,7 @@ GEM
       activerecord (= 6.1.5)
       activestorage (= 6.1.5)
       activesupport (= 6.1.5)
-      bundler (>= 2.1.4)
+      bundler (>= 1.15.0)
       railties (= 6.1.5)
       sprockets-rails (>= 2.0.0)
     rails-dom-testing (2.0.3)
@@ -264,4 +264,4 @@ RUBY VERSION
    ruby 3.0.3p157
 
 BUNDLED WITH
-   2.1.4
+   2.2.32
